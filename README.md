@@ -1,26 +1,19 @@
 # tile-map-explorer
 A HTML5 tile game starter 
 
+Framework by Nathan Bean
+https://github.com/CIS580/tile-map-explorer.git
+
+Game by Cody Riniker
+
+
 ## Getting Started
 
-Clone the project, and install dependencies:
+Clone the project, and run npm install
 
-`
-$ git clone https://github.com/CIS580/tile-map-explorer.git
-$ cd tile-map-explorer 
-$ npm install 
-`
+After that go to 
+	localhost:8080
+	
+Then use arrow keys to move and jump.
 
-You can then run the project in development mode:
 
-`
-$ npm start
-`
-
-Which will serve a locally-hosted webpage at http://localhost:8080.  Alternatively, you can build a distribution using:
-
-`
-$ npm run build
-`
-
-The resulting files in the dist folder can then be served using a webserver of your choice.
